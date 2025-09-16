@@ -1,18 +1,11 @@
 {
-"compilerOptions": {
-"composite": true,
-"skipLibCheck": true,
-"module": "ESNext",
-"moduleResolution": "Bundler",
-"types": ["node"]
-},
-"include": ["vite.config.ts"]
+  "compilerOptions": {
+    "composite": true,
+    "skipLibCheck": true,
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "types": ["node"]
+  },
+  "include": ["vite.config.ts"]
 }
-},
-boxShadow: {
-soft: '0 10px 30px rgba(0,0,0,0.25)'
-}
-},
-},
-plugins: [],
-}
+
